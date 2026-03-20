@@ -7,7 +7,7 @@
 // }
 
 
-
+import Nav from "../pages/nav"
 // Props
 export const Abdullah = (props) => {
   return (
@@ -22,6 +22,7 @@ export const Abdullah = (props) => {
 export default function About() {
   return (
     <div>
+<Nav/>
       <h1 className="flex justify-center m-10">About Page</h1>
 <Abdullah name="Abdullah" age={18}/>
     </div>
