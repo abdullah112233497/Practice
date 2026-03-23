@@ -23,3 +23,4 @@ Follow these steps to run the project locally.
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+I have covered the till state props, etc
