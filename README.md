@@ -5,7 +5,7 @@ This repository contains my **Next.js practice project** where I experiment with
 The project was initialized using **create-next-app**.
 
 ---
-
+Now: 
 ## 📌 Tech Stack
 
 - ⚡ Next.js
