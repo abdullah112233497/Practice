@@ -7,6 +7,7 @@ The project was initialized using **create-next-app**.
 ---
 Now: 
 now...
+next
 ## 📌 Tech Stack
 
 - ⚡ Next.js
