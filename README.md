@@ -13,7 +13,7 @@ next
 - ⚡ Next.js
 - ⚛️ React
 - 🎨 CSS / Tailwind (if you are using it)
-- 🟨 JavaScript / TypeScript
+- 🟨 JavaScript 
 
 ---
 
